@@ -1,0 +1,40 @@
+h1 {
+  font-family: Verdana;
+  font-weight: 300px;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+
+}
+
+#background {
+  background-color: black;
+  text-align: center;
+}
+
+.hyperlink {
+  color: aquamarine;
+  font-size: 18px;
+
+}
+
+h2 {
+  color: white;
+  font-family: Verdana;
+  font-weight: 300px;
+  font-size: 42px;
+}
+
+#interest {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+
+}
+
+.footer {
+  text-align: right;
+  color: gray;
+  font-size: 21px;
+
+}
